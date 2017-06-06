@@ -11,5 +11,5 @@ max_iter: 3000
 momentum: 0.9
 weight_decay: 0.0005
 snapshot: 1000
-snapshot_prefix: "models/GOOGLE_DHN/final_bvlc_googlenet"
+snapshot_prefix: "models/GOOGLE_DHN/result"
 solver_mode: GPU
