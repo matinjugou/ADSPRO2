@@ -11,7 +11,8 @@ After downloads this git, you can install this project by editing "Makefile.conf
 ```
 "./make all"
 ```
-(requiring for CUDNN 7.5 or later versions)
+(requiring for CUDNN 7.5 or later versions).
+
 We use GPU while computing, so you need to prepare one if you want to test this project on your own.
 
 Data Preparation
