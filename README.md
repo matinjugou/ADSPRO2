@@ -17,7 +17,13 @@ We use GPU while computing, so you need to prepare one if you want to test this 
 
 Data Preparation
 ---------------
-In `data/adspro2/train.txt`, we give an example to show how to prepare training data. In `data/nus_wide/parallel/`, the list of testing and database images are splitted to 12 parts, which could be processed parallelly when predicting.
+In `data/adspro2/train.txt`, we give an example to show how to prepare training data.Normally,you have to conform to following format:
+```
+[File/Path] [labels]
+```
+In which the length of labels is the total categories of your dataset,and use 1 or 0 to represent if one Pic belongs to one category or not.
+
+ In `data/nus_wide/parallel/`, the list of testing and database images are splitted to 12 parts, which could be processed parallelly when predicting.
 
 Training Model
 ---------------
