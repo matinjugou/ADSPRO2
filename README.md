@@ -19,7 +19,7 @@ Data Preparation
 ---------------
 In `data/adspro2/train.txt`, we give an example to show how to prepare training data.Normally,you have to conform to following format:
 ```
-[File/Path] [labels]
+[File/Path] [Labels]
 ```
 In which the length of labels is the total categories of your dataset,and use 1 or 0 to represent if one Pic belongs to one category or not.
 
