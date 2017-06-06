@@ -1,0 +1,750 @@
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_5406.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_45318.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_20910.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1958.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_3724.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_5716.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_878.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_548.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3731.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_15931.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4465.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_36099.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_12595.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_531.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3260.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_20179.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3717.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1028.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1370.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_3349.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_631.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_3532.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_9585.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_4888.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_77.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_18192.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_3926.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6110.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_4909.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1901.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1533.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2541.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_4300.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_684.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_3252.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2752.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_3802.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_745.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_15018.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_813.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_374.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_620.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_2538.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_28721.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_3639.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_8415.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1406.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_1068.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_5064.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_6522.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_7309.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_8167.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_3825.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2644.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_4810.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_37.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_8612.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_1324.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_2123.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_5885.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_6409.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_18370.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_1706.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_5074.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1142.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_913.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_8410.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_2711.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_617.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_11427.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3403.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2953.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1136.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_5200.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_5950.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_8989.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_8748.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_877.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_8077.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1950.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_2891.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_966.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1091.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_4092.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1931.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1841.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_16557.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_3376.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2024.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_3212.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3110.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_4369.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_2465.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_8571.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4979.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1386.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_30405.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1518.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1930.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1494.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_38277.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_13074.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_5095.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_13989.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_5517.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4947.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2698.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_7099.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1913.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2054.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6905.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_6467.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4241.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_1662.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_1808.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_14000.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_10549.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_2138.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_280.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_3806.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_450.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_478.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_2129.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_1470.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_798.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_42110.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_20517.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_1321.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_22989.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_5708.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_16019.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_108.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_4725.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_1745.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_2521.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_14462.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2808.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_18695.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_1574.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_3726.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_3240.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_8107.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4010.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_1456.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_2147.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_6401.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_7185.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_4458.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3687.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_842.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_909.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_1033.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_18500.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_413.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6455.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_610.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_37.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4187.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_4382.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_26324.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_106.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_4119.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_2020.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2492.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6149.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_5201.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_13716.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_713.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4718.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_5927.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_742.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_562.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_6431.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6967.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_29774.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_7248.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_2482.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_769.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3226.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_779.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_26760.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_4464.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3520.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_1778.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_1384.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_3981.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_4789.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_67748.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_8485.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1099.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3795.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_980.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_41697.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_886.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3061.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1772.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_797.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_26533.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1429.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_2503.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_1163.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_35009.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_26311.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_2504.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_31718.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_19607.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_37088.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_3300.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1855.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_33891.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_7652.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_24320.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2338.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_1865.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_5065.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_4977.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1209.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_2414.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_3022.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_4679.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_2841.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2371.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_4756.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_15545.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_8380.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_7056.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_19271.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_4565.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_419.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4256.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_993.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_12332.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_2586.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_26485.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1807.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_17806.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_3367.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_7645.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_3151.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_5480.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_4065.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_815.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_604.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2646.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_3533.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4732.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3591.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2958.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3031.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4307.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_4492.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_6338.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_684.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_4814.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_2918.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4527.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_22736.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_32521.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_5060.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2706.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_4292.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_404.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1515.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_37130.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2466.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_4104.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_335.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_45022.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3106.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_1750.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_17061.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1814.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_634.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_5083.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_26640.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_55466.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_2233.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3740.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_2525.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_4949.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_5170.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_8237.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6667.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1871.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_7698.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_47696.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_2950.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6690.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_7353.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3729.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_7004.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_470.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1243.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_10060.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_1536.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_3275.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_4251.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_18302.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4288.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_55021.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_3660.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_3678.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4182.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_3627.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_14799.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1259.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_6100.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6028.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1184.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_2152.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_1337.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_25221.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_15629.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_40526.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_2007.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_6736.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_4768.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_97.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_978.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_3582.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_5236.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_4409.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_2477.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_805.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_5744.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_30420.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_1088.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_69.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4637.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_4834.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_33652.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_29314.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_17284.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_8889.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_6054.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_2732.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_4374.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_5299.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_2228.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_7759.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_5957.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_24999.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_1084.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_2092.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_6001.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01923025_1717.JPEG 0 1 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_2823.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_8050.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1517.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_56616.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_3468.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_47703.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_5134.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1614.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_4237.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2847.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03877845_6829.JPEG 0 0 0 0 1 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_2620.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n07897438_2066.JPEG 0 0 0 0 0 0 0 1 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_2971.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_2949.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_8047.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_5141.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_8758.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04583620_128.JPEG 0 0 0 0 0 0 1 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_10369.JPEG 0 0 0 0 0 1 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_37181.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_5889.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_6615.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n02278980_2349.JPEG 0 0 1 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n01613177_1878.JPEG 1 0 0 0 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n11669921_2988.JPEG 0 0 0 0 0 0 0 0 0 1
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n10247358_12906.JPEG 0 0 0 0 0 0 0 0 1 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n03767203_1493.JPEG 0 0 0 1 0 0 0 0 0 0
+
+/home/yaozhiyu/caffe-zhuhan/hash-caffe-master/data/adspro2/image/n04515003_804.JPEG 0 0 0 0 0 1 0 0 0 0
+
